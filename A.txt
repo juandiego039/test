@@ -1,0 +1,6 @@
+B.txt
+dirname/
+
+??.org   -> ignora archivos con dos caracteres como nombre
+
+
